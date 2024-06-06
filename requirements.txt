@@ -5,3 +5,20 @@ joblib
 scikit-learn
 pip
 xgboost
+sqlite3
+smtplib
+random
+string
+email.mime.text
+MIMEText
+email.mime.multipart
+MIMEMultipart
+hashlib
+io
+os
+dataclasses
+dataclass
+textwrap
+dedent
+typing
+TYPE_CHECKING, BinaryIO, Final, Literal, TextIO, Union, cast
